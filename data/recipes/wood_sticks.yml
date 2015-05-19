@@ -1,0 +1,7 @@
+recipe: [
+  [   0,   0,   0 ],
+  [   0,   5,   0 ],
+  [   0,   5,   0 ]
+]
+output: 280
+output_count: 4
